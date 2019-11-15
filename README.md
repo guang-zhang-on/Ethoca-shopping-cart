@@ -7,7 +7,7 @@ You need to have installed Node and NPM.
 
 Clone this repository
 ``` shell
-git clone https://github.com/gtsopour/nodejs-shopping-cart.git
+git clone https://github.com/guang-zhang-on/Ethoca-shopping-cart.git
 ```
 
 Install dependencies
@@ -20,12 +20,7 @@ Start NodeJS server at http://localhost:3000
 npm start
 ```
 
-For Nodemon usage
-``` shell
-nodemon ./bin/www
-```
-
 ### Technologies
 NodeJS, Express, Express-Session, Nodemon, hbs - Express.js view engine for handlebars.js
 
-For any extra questions, please contact me at gtsopour@gmail.com. 
+For any extra questions, please contact me at guang.zhang.on@gmail.com. 
