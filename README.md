@@ -3,7 +3,7 @@
 ### Run locally on your machine
 You need to have installed Node and NPM.
 
-![Ethoca Shopping Cart](/data/nodejs-cart-1.png?raw=true "Ethoca Shopping Cart")
+![Ethoca Shopping Cart](/data/Ethoca-shopping-cart-1.png?raw=true "Ethoca Shopping Cart")
 
 Clone this repository
 ``` shell
