@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Strawberries",
+    "description": "Strawberries are <span class=\"label label-info\">3 CHF each</span>, from Newmarket <span class=\"label label-danger\">picked this morning</span>",
+    "price": 3
+  },
+  {
+    "id": 2,
+    "title": "Apples",
+    "description": "Apples are <span class=\"label label-info\">25 CHF each</span>",
+    "price": 25
+  },
+  {
+    "id": 3,
+    "title": "Oranges",
+    "description": "Oranges are <span class=\"label label-info\">30 CHF each</span>, new product <span class=\"label label-warning\">Florida</span>",
+    "price": 30
+  },
+  {
+    "id": 4,
+    "title": "Garlic",
+    "description": "Garlic are <span class=\"label label-info\">15 CHF each</span>, freshness <span class=\"label label-success\">from Ontario</span>",
+    "price": 15
+  },
+  {
+    "id": 5,
+    "title": "Papayas",
+    "description": "Papayas are <span class=\"label label-info\">50 CHF each</span>, from Mexico <span class=\"label label-warning\">newly arrived</span>",
+    "price": 50
+  },
+  {
+    "id": 6,
+    "title": "Tomatoes",
+    "description": "Tomatoes are <span class=\"label label-info\">10 CHF each</span>",
+    "price": 10
+  }
+]
